@@ -1,5 +1,6 @@
 # 认知搜索方案
 因为认知搜索技术成熟，而且相对功能也比较多，对于一些复杂的场景推荐使用。
+<img width="1121" alt="Screen Shot 2023-06-08 at 11 18 19 AM" src="https://github.com/huqianghui/pdf-form-table-demo-test-script/assets/7360524/510a093b-8289-4ef4-9abb-930a8f510a09">
 
 1. 索引创建
 
@@ -23,9 +24,10 @@
     
       1） 搜索语法 --中文处理
       2) 阈值score确定
-      3) prompt设置，让它更精准
-      4) 模型选择： davince, chatgpt，gpt4，gpt4-32K
-      5) 模型参数设置
+      3) 使用语义搜索
+      4) prompt设置，让它更精准
+      5) 模型选择： davince, chatgpt，gpt4，gpt4-32K
+      6) 模型参数设置
 
     
  4. framework 选择
