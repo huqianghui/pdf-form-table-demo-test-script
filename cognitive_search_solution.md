@@ -19,6 +19,7 @@
        a） chrunk大小
        b） overlap大小
        c） 断句以及追溯段大小
+  <img width="296" alt="Screen Shot 2023-06-08 at 11 20 54 AM" src="https://github.com/huqianghui/pdf-form-table-demo-test-script/assets/7360524/3b61e068-d745-4ddd-b96c-dd0007c50138">
        
 3. 调用过程
     
@@ -28,7 +29,8 @@
       4) prompt设置，让它更精准
       5) 模型选择： davince, chatgpt，gpt4，gpt4-32K
       6) 模型参数设置
-
+  
+  <img width="397" alt="Screen Shot 2023-06-08 at 11 21 01 AM" src="https://github.com/huqianghui/pdf-form-table-demo-test-script/assets/7360524/75dc0212-fce2-42a9-b47a-f502858e6f60">
     
  4. framework 选择
      
