@@ -20,7 +20,13 @@
 目前通过开源社区给出了两个方案，得到了大家的广泛使用。
 
 1） 基于Azure Cognitive Search实现数据索引  
+
+![appcomponents](https://github.com/huqianghui/pdf-form-table-demo-test-script/assets/7360524/c790842a-c4cb-4ffd-8615-ec9916c40667)
+
 2） 通过Vector Embedding，实现数据的向量化  
+
+<img width="985" alt="Screen Shot 2023-06-08 at 10 48 43 AM" src="https://github.com/huqianghui/pdf-form-table-demo-test-script/assets/7360524/84a7efa7-1d81-4b6d-a035-e6a2cc7475a5">
+
 
 他们都是在解决，私域数据如果正确的吐给gpt模型，让它给出一个正确的私域答案。
 但是基于上面两个链接，大家在使用之后，发现效果差强人意。通过一些实践，这里整理了一些关键点，让大家参考。
