@@ -163,7 +163,7 @@ def get_document_text(filename):
                     added_tables.add(table_id)
 
             page_text += " "
-            page_text = page_text.replace("公司","科大讯飞股份有限公司")
+            page_text = page_text.replace("公司","XXX有限公司")
             page_map.append((page_num, offset, page_text))
             offset += len(page_text)
     print("page_map: " + str(page_map))
