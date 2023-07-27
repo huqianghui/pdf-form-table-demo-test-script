@@ -172,7 +172,7 @@ def get_document_text(filename):
 
 
 openai.api_type = "azure"
-openai.api_key = "b3813d19476f464982ae9d6b6022c0ac"
+openai.api_key = "XXXX"
 openai.api_base = "https://openai-demo3-east-us.openai.azure.com/"
 openai.api_version = "2023-03-15-preview"
 
